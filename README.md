@@ -12,3 +12,6 @@ I'm Ken and I work within the Site Reliability Engineering and Azure DevOps spac
 ### 📫 &nbsp; How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenhendo)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
