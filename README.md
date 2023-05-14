@@ -32,3 +32,5 @@ I'm Ken and I work within the Site Reliability Engineering and Azure DevOps spac
 [![MCSA: Windows Server 2012 - Certified 2016](https://images.credly.com/size/110x110/images/835b37d1-09fb-42d5-9559-38abc7b4063d/MCSA_Windows_Server_2012-01.png)](http://www.credly.com/badges/123341b7-b2f4-484f-8aa0-90daf3fe49ae "MCSA: Windows Server 2012 - Certified 2016")
 [![VMware Certified Professional 6 – Data Center Virtualization](https://images.credly.com/size/110x110/images/4ca4d86c-2022-4d10-ba65-6a5e8a1c1039/vmware_Cert_P_DCV6.png)](http://www.credly.com/badges/454b1027-f4a3-401d-a2be-4d290330b929 "VMware Certified Professional 6 – Data Center Virtualization")
 <!--END_SECTION:badges-->
+
+*(Synched from [Credly.com](https://www.credly.com/users/ken-henderson/badges))*
