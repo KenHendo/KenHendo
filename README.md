@@ -16,7 +16,7 @@ I'm Ken and I work within the Site Reliability Engineering and Azure DevOps spac
 
 ---
 
-### &nbsp;Certification and Training
+### 📄 &nbsp;Certification and Training
 
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/110x110/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/a0bea5fd-1a3c-48e5-b04b-08e4e668afd9 "Microsoft Certified: Azure Administrator Associate")
