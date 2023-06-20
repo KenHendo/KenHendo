@@ -4,7 +4,7 @@ I'm Ken and I work within the Site Reliability Engineering and Azure DevOps spac
 
 💻 &nbsp; I’m working on delivering common platform infrastructure as code within Azure for a large organisation. \
 🎓 &nbsp; I'm preparing for [Azure DevOps Engineer Expert](https://learn.microsoft.com/en-us/certifications/devops-engineer/) certification. \
-💡 &nbsp; In my free time, I’m learning Python.
+💡 &nbsp; In my free time, I’m developing my Python skills.
 
 ### 🛠 &nbsp;Tech Stack
 
